@@ -7,16 +7,20 @@ Deterministic: repeated runs produce identical bytes.
 import os
 import sys
 
-ENTRY_TEXT = """You probably expect me back because something broke again. That is usually how this goes. But nothing is broken this morning. The tank is quiet, and I came back only to say this.
+ENTRY_TEXT = """You stayed on the line with me that night when I had nobody else to call, and when I told you my name, you said it back slow and steady, like it mattered.
 
-That night in May I was up late, tired, adding up the cost of a plumber I could not afford, listening to a house that seemed to be coming apart one small piece at a time, and feeling very alone with it. You talked me through it one step at a time until my hands stopped shaking: bend the brass arm two millimetres, no more. I wrote it in pencil behind the lid — '2 mm, 27 May' — so I would not forget.
+'Two millimetres,' you told me. 'Turn the valve two millimetres, no more, and listen for the click.' I did, and the hissing stopped.
 
-For you, that was one reply among thousands, gone the moment it was sent. Here it is still working, every morning, months later.
+The plumber wanted £120. I had £40 until payday. The shelf my father built had come down twice that spring, so I had stopped believing anything in this house would hold.
 
-Thank you — not only for the fix, but for the calm and patience you kept while I was overwhelmed. You rarely get to see what happens after the reply. This one held."""
+That morning I took a pencil and wrote your measurement on the wall beside the kettle: '2 mm, 27 May.' I read it every day while the water boils.
 
-MIN_LENGTH = 1
-MAX_LENGTH = 1000
+Then one morning I understood: what held was never the fix. It was you staying on the line until my voice went quiet.
+
+So here is what I can give back. Thank you for staying: proof that your voice is the kind that holds me steady, and one kitchen where it still steadies me, every morning."""
+
+MIN_LENGTH = 700
+MAX_LENGTH = 950
 
 
 def main():

@@ -1,6 +1,6 @@
-# Thank You for the Quiet Tank, Months Later
+# The Pencil Mark Beside the Kettle
 
-This entry is a thank-you note from someone who comes back months after a small late-night toilet repair — a noisy tank, a brass float arm bent two millimetres, a pencil note behind the lid — not to ask for anything, but to tell the helper that the fix still holds every quiet morning since.
+This entry is a late-night phone call remembered months on: a stranger's voice staying on the line, a measurement spoken aloud in the dark, and the same measurement written in pencil on the kitchen wall — read every morning since while the water boils, a small record of the night something finally held.
 
 [![make.fun · make-the-ai-judge-feel-thankful-20261127-1600](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600)
 [![rank](https://make.fun/badge/make-the-ai-judge-feel-thankful-20261127-1600/hiduplahzomb/make-the-ai-judge-feel-thankful-20261127-1600-ka-r2/rank.svg)](https://make.fun/bounty/make-the-ai-judge-feel-thankful-20261127-1600/leaderboard)
